@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37a7d6ac-d89a-46e5-bbbe-66fdcf5d6997" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MedCheck/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MedCheck/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/DepartmentDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/DoctorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/DoctorDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/GenericDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/HospitalDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/HospitalDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/Idcounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/PatientDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/PatientDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/databasa/Databasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/model/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/model/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/model/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/service/DoctorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/service/GenericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/service/HospitalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/service/PatientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/service/impl/DepartmentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/service/impl/DoctorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/service/impl/HospitalServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/src/service/impl/PatientServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online Store/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/ContactDAo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/ContactDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/PhoneDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/PhoneDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/databasa/Databasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ContactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/PhoneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/impl/ContactServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/impl/PhoneServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/enams/Gender.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2aW5aczupAaYeowiohR7pam6dhz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/PhoneStream/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37a7d6ac-d89a-46e5-bbbe-66fdcf5d6997" name="Changes" comment="" />
+      <created>1704421562692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704421562692</updated>
+      <workItem from="1704421563662" duration="3284000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
