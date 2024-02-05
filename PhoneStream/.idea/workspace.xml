@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37a7d6ac-d89a-46e5-bbbe-66fdcf5d6997" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Abstraction/Abstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arraylist/Arraylist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraylistLMS/ArraylistLMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DAO/DAO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deque/Deque.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dog/Dog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Enum/Enum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic LMS/Generic LMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambda/Lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linkedlist/Linkedlist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map/Map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapLMStask2/MapLMStask2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MedCheck/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MedCheck/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medchek/Medchek.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/DepartmentDao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/DepartmentDaoImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Medchek/src/dao/DoctorDao.java" afterDir="false" />
@@ -33,10 +46,18 @@
       <change afterPath="$PROJECT_DIR$/../Medchek/src/service/impl/HospitalServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Medchek/src/service/impl/PatientServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Online Store/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online Store/Online Store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhoneStream.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dao/ContactDAo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dao/ContactDaoImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dao/PhoneDao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/dao/PhoneDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/idPhone.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/databasa/Databasa.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/model/Contact.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/model/Phone.java" afterDir="false" />
@@ -44,8 +65,27 @@
       <change afterPath="$PROJECT_DIR$/src/service/PhoneService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/service/impl/ContactServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/service/impl/PhoneServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aaaa/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Set/Set.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stringbuilder/Stringbuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Televizion-project/untitled19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/aaaa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/dao/StidentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/dao/StudentDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/databasa/Databasa.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aaaa/src/enams/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/exeptions/NotfounExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/service/StudwntService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exeption/exeption.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicGenric.Lamda/practicGenric.Lamda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praktika.project/praktika.project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled17/untitled17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled21/untitled21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled24/untitled24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled25/untitled25.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +103,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2aW5aczupAaYeowiohR7pam6dhz" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -74,20 +114,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/PhoneStream/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/PhoneStream/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,6 +143,9 @@
       <option name="presentableId" value="Default" />
       <updated>1704421562692</updated>
       <workItem from="1704421563662" duration="3284000" />
+      <workItem from="1704559064603" duration="15623000" />
+      <workItem from="1704643616377" duration="2601000" />
+      <workItem from="1704788360092" duration="135000" />
     </task>
     <servers />
   </component>

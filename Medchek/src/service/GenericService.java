@@ -1,2 +1,11 @@
-package service;public interface GenericService {
+package service;
+
+import java.util.List;
+
+public interface GenericService <T>{
+    String add(Long  hospitalId, List<T> t);
+
+                void removeById(Long id);
+
+                String updateById(Long id, T t);
 }

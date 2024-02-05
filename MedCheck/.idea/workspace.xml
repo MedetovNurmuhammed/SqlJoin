@@ -4,14 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56b32fd6-d6f9-4c9f-b4be-8e2e5400d368" name="Changes" comment="" />
+    <list default="true" id="56b32fd6-d6f9-4c9f-b4be-8e2e5400d368" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../GitGithub/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GitGithub/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/dao/DepartmentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/dao/DepartmentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/dao/DepartmentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/dao/DepartmentDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/dao/DoctorDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/dao/DoctorDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/dao/DoctorDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/dao/DoctorDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/dao/GenericDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/dao/GenericDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/dao/HospitalDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/dao/HospitalDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/dao/HospitalDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/dao/HospitalDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/dao/Idcounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/dao/Idcounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/dao/PatientDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/dao/PatientDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/dao/PatientDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/dao/PatientDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/databasa/Databasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/databasa/Databasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/model/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/model/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/model/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/model/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/model/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/model/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/model/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/model/Hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/model/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/model/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/service/DepartmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/service/DepartmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/service/DoctorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/service/DoctorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/service/GenericService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/service/GenericService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/service/HospitalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/service/HospitalService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/service/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/service/PatientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/service/impl/DepartmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/service/impl/DepartmentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/service/impl/DoctorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/service/impl/DoctorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/service/impl/HospitalServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/service/impl/HospitalServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Medchek/src/service/impl/PatientServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Medchek/src/service/impl/PatientServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/dao/ContactDAo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/dao/ContactDAo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/dao/ContactDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/dao/ContactDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/dao/PhoneDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/dao/PhoneDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/dao/PhoneDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/dao/PhoneDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/dao/idPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/dao/idPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/databasa/Databasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/databasa/Databasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/model/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/model/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/model/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/model/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/service/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/service/ContactService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/service/PhoneService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/service/PhoneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/service/impl/ContactServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/service/impl/ContactServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneStream/src/service/impl/PhoneServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneStream/src/service/impl/PhoneServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SqlJoin/src/Join.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SqlJoin/src/Join.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SqlJoin/src/Joinpraktika.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SqlJoin/src/Joinpraktika.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SqlJoin/src/finaltask.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SqlJoin/src/finaltask.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SqlJoin/src/subquery.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../SqlJoin/src/subquery.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaa/src/dao/StidentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aaaa/src/dao/StidentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaa/src/dao/StudentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aaaa/src/dao/StudentDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaa/src/databasa/Databasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aaaa/src/databasa/Databasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaa/src/enams/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aaaa/src/enams/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaa/src/exeptions/NotfounExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aaaa/src/exeptions/NotfounExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaa/src/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aaaa/src/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaa/src/service/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aaaa/src/service/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaa/src/service/StudwntService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aaaa/src/service/StudwntService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -22,26 +76,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "feature/refactor",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MedCheck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MedCheck" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,6 +116,9 @@
       <workItem from="1703912277552" duration="1356000" />
       <workItem from="1704391963022" duration="1943000" />
       <workItem from="1704410583605" duration="2380000" />
+      <workItem from="1704422093535" duration="21000" />
+      <workItem from="1704559038561" duration="13000" />
+      <workItem from="1706967378548" duration="49000" />
     </task>
     <servers />
   </component>

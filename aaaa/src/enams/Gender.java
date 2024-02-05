@@ -1,2 +1,6 @@
-package enams;public enum Gender {
+package enams;
+
+public enum Gender {
+    MALE,
+    FEMALE;
 }

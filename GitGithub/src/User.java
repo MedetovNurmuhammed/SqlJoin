@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class User {
+public class User {
+    private  long id;
 }

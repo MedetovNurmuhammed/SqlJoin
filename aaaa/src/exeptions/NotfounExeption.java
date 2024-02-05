@@ -1,2 +1,4 @@
-package exeptions;public class NotfounExeption {
+package exeptions;
+
+public class NotfounExeption {
 }
